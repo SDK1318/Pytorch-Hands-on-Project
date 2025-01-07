@@ -1,1 +1,1 @@
-# PytorchPytorch-Hands-on-Project
+# Pytorch-Hands-on-Project
